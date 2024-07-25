@@ -8,10 +8,15 @@ Understand the relationship(s) between variables or find the lack of relationshi
 Ultimately, maximize our insights of a dataset and minimize potential error that may occur later in the process
 
 Exploratory Data Analysis perform two main things:
+
 It helps clean up a dataset.
+
 It gives us a better understanding of the variables and the relationships between them.
 
 Components of EDA:
+
 Understanding our variables
+
 Cleaning our dataset
+
 Analyzing relationships between variables
