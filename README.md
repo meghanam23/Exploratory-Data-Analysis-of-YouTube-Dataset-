@@ -9,12 +9,12 @@ Identify outliers, missing values, human error etc.
 Understand the relationship(s) between variables or find the lack of relationship(s)
 Ultimately, maximize our insights of a dataset and minimize potential error that may occur later in the process
 
-Exploratory Data Analysis perform two main things:
+**Exploratory Data Analysis perform two main things:**
 
 It helps clean up a dataset.
 It gives us a better understanding of the variables and the relationships between them.
 
-Components of EDA:
+**Components of EDA:**
 
 Understanding our variables
 Cleaning our dataset
